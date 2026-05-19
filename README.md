@@ -1,6 +1,6 @@
 # Nigeria AI Governance Gap Analysis
 
-**Researcher:** Shady  
+**Researcher:** Siminloluwa 
 **Status:** In Progress — Week 1 Complete  
 **Target Output:** Academic research paper + policy brief  
 **Strategic Purpose:** GIST AI Policy and Strategy M.S. Application, Spring 2027

@@ -22,7 +22,7 @@ drawing from global best practices.
 
 ## Progress
 - [x] Week 1 — Foundation & Literature Review
-- [ ] Week 2 — Evidence Gathering
+- [x] Week 2 — Evidence Gathering
 - [ ] Week 3 — Comparative Framework Analysis
 - [ ] Week 4 — Framework Design
 - [ ] Week 5 — Full Paper Writing

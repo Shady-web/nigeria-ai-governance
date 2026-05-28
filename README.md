@@ -24,6 +24,6 @@ drawing from global best practices.
 - [x] Week 1 — Foundation & Literature Review
 - [x] Week 2 — Evidence Gathering
 - [X] Week 3 — Comparative Framework Analysis
-- [ ] Week 4 — Framework Design
+- [X] Week 4 — Framework Design
 - [ ] Week 5 — Full Paper Writing
 - [ ] Week 6 — Polish + Policy Brief + GitHub
